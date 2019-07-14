@@ -3,6 +3,7 @@
 This project marks the final work of my programming class at the Game Design course I attended. At the time, I admit, I wasn't really good at it. Still, I was keeping at it everyday.
 
 The conditions for this game were:
+
 • The player controls a car
 • Movement is made horizontaly and verticaly
 • Going off-track slows-down the movement
